@@ -82,4 +82,4 @@ Here is a checklist of deliverables for the quest that you can refer to througho
 
 
 ## Play the game here: https://colab.research.google.com/drive/1nL7uU_qa3mqYC0cJsDPFjNKHvFOFImkJ#scrollTo=SbCOCXGw68jp
-## Project presentation here: https://docs.google.com/presentation/d/1sRCtaEORo7BspzBtPQMmbYyIS80VHqHf9LCp3VWs6hQ/edit?usp=sharing
+## Project presentation here: https://colab.research.google.com/drive/1nL7uU_qa3mqYC0cJsDPFjNKHvFOFImkJ?usp=sharing

@@ -1,13 +1,5 @@
 # Project-Text-Based-Game-EscapeRoom
-The mission is to code a text-based game, "Escape Room" , utilizing Python skills learned in the bootcamp.
-## Setup
-- Dev Team: Responsible for the game’s coding such as constructing the game’s structure and functions, ensuring smooth game flow and that the project requirements are met. Pair programming is strongly encouraged to allow collaborative problem-solving, exchange of ideas, and ensure quality in your code.
-- Research Team: This team is responsible for researching topics that are relevant to the project and then sharing that information with the Dev team. They will also apply the findings to the project, so each team has hands-on experience each day.
-
-Note: Roles will rotate daily for skill diversification.
-
-## Brief
-Your team will develop the “Escape Room” game. Implement Python code, manage errors, and test your game to ensure robustness. Each room presents unique challenges. The goal is to escape from the starting room (Game Room) to the end (Outside). Look at the image below and read the game narrative to understand the game logic fully:
+The mission is to code a text-based game - "Escape Room" in python. Implement Python code, manage errors, and test the game to ensure robustness. Each room presents unique challenges. The goal is to escape from the starting room (Game Room) to the end (Outside). The image below and the game narrative helps to understand the game logic completely:
 
 ![image](https://github.com/user-attachments/assets/cccb6825-b719-43c8-92cc-5118cd0c84c6)
 
@@ -61,11 +53,8 @@ Is it time to step through Door D and see what lies beyond?
 ### Outside
 Freedom! You’ve managed to escape the room! Congrats on your successful adventure! Now, can you recount the thrilling journey and the clever strategy that got you here?
 
-# Deliverables
-## The Game
-Deliver a main.ipynb file with your Python game solution and the .py file(s) containing your functions. It should reflect the Python concepts learned each day and be pushed to GitHub. You may download the files from the Google Colab and push these. The end product should be fully functional but also well-structured, efficient, robust, and entertaining!
 
-Here is a checklist of deliverables for the quest that you can refer to throughout the week to make sure you are on track:
+# Making The Game
 
 - The game incorporates various data structures, specifically dictionaries and lists, to define game rooms, paths, and items.
 - The game uses a Python dictionary to store the game state which is updated when progress is made, such as a key being collected.
@@ -73,7 +62,7 @@ Here is a checklist of deliverables for the quest that you can refer to througho
 - The code appropriately uses loops where needed, such as for repeating game actions until the player reaches a certain outcome.
 - The game uses functions to play the game and compartmentalize tasks such as navigating between rooms or interacting with items.
 - Arguments are used in functions where appropriate to allow for reusability.
-- The game uses return statements in functions to output certain results, which are then used elsewhere in your code.
+- The game uses return statements in functions to output certain results.
 - After completing each game action, functions are called to continue playing until the winning condition is reached.
 - The game utilizes comprehension for creating more efficient and readable code where applicable.
 - Any user input is validated and the game incorporates error handling techniques to handle any possible errors or exceptions, providing a smoother user experience.
